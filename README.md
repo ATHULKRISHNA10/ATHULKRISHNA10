@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ATHULKRISHNA10
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Information science
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me krishnathul476@gmail.com
 
 
 <!---
